@@ -1,7 +1,0 @@
-{
-  "name": "verdaccio-heroku",
-  "description": "A private npm registry with Heroku",
-  "repository": "https://github.com/juanpicado/verdaccio-heroku-example",
-  "keywords": ["verdaccio", "docker", "npm"],
-  "stack": "container"
-}
